@@ -8,7 +8,7 @@ I am currently working as a Data Scientist for [Analytics Town](https://www.anal
 
 ## Education
 
-### PhD in Science and Technology - National University of Cuyo (Argentina)
+#### PhD in Science and Technology - National University of Cuyo (Argentina)
 
 `April 2021 -> December 2024`
 
@@ -23,30 +23,36 @@ In media:
 
 * [Supercomputing and Neural Connections.](https://ccad.unc.edu.ar/2022/03/29/serafin-supercomputacion-y-conexiones-neuronales/)
 
-### Industrial Engineering - National University of Mar del Plata (Argentina)
+#### Industrial Engineering - National University of Mar del Plata (Argentina)
 
 `March 2015 -> August 2020` 
 
+Academic experiences:
+* Undergraduate research fellow at the Scientific Research Commission of the Province of Buenos Aires, Argentina.
+* Undergraduate teaching assistant at the National University of Mar del Plata.
+
+GPA: 8.06 of 10
+
 ## Job Experience
 
-### Lorem ipsum dolor sit amet
+#### Lorem ipsum dolor sit amet
 
 Lorem ipsum dolor sit amet, con
 
-### Lorem ipsum dolor sit amet
+#### Lorem ipsum dolor sit amet
 
 Lorem ipsum dolor sit amet, con
 
-### Lorem ipsum dolor sit amet
+#### Lorem ipsum dolor sit amet
 
 Lorem ipsum dolor sit amet, con
 
 ## Skills
 
-### Lorem ipsum dolor sit amet
+#### Lorem ipsum dolor sit amet
 
 Lorem ipsum dolor sit amet, con
 
-### Lorem ipsum dolor sit amet
+#### Lorem ipsum dolor sit amet
 
 Lorem ipsum dolor sit amet, con

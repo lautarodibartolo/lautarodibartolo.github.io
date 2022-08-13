@@ -42,7 +42,7 @@ Academic experiences:
 
 Part of the e-commerce team responsible for collecting data, processing it and generating reports/insights for a large retail company in Europe. Working under the Agile methodology and the Google Cloud Platform environment.
 
-Skills: `Google Analytics` - `Python` - `BigQuery` - `Virtual Machines` - `Data Studio` - `Bash Scripting` - `Linux`
+Skills: `Google Analytics`, `Python`, `BigQuery`, `Virtual Machines`, `Data Studio`, `Bash Scripting` and `Linux`
 
 ### Lorem ipsum dolor sit amet
 

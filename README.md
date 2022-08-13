@@ -2,13 +2,13 @@
 
 ## About me
 
-I am an Industrial Engineer graduated from the National University of Mar del Plata, pursuing a PhD in Science and Technology at the National University of Cuyo.
+I am an industrial engineer graduated from the National University of Mar del Plata, pursuing a PhD in science and technology at the National University of Cuyo.
 
-I am currently working as a Data Scientist for [Analytics Town](https://www.analyticstown.com/en/home/) working on e-commerce sites of a large retail company in Europe. In addition, I work as a CRM consultant (HubSpot) for [Deitres](https://www.deitres.com), an IoT firm, seeking the automation of marketing and collection tools. Finally, I have teaching functions at the National University of Mar del Plata as an assistant professor in applied statistics.
+I am currently working as data scientist for [Analytics Town](https://www.analyticstown.com/en/home/) working on e-commerce sites of a large retail company in Europe. In addition, I work as a CRM consultant (HubSpot) for [Deitres](https://www.deitres.com), an IoT firm, seeking the automation of marketing and collection tools. Finally, I have teaching functions at the National University of Mar del Plata as an assistant professor in applied statistics.
 
 ## Education
 
-#### PhD in Science and Technology - National University of Cuyo (Argentina)
+#### PhD in science and technology - National University of Cuyo (Argentina)
 
 `April 2021 -> December 2024`
 
@@ -23,17 +23,17 @@ In media:
 
 * [Supercomputing and Neural Connections.](https://ccad.unc.edu.ar/2022/03/29/serafin-supercomputacion-y-conexiones-neuronales/)
 
-#### Industrial Engineering - National University of Mar del Plata (Argentina)
+#### Industrial engineering - National University of Mar del Plata (Argentina)
 
 `March 2015 -> August 2020` 
+
+GPA: 8.06 of 10
 
 Academic experiences:
 * Undergraduate research fellow at the Scientific Research Commission of the Province of Buenos Aires, Argentina.
 * Undergraduate teaching assistant at the National University of Mar del Plata.
 
-GPA: 8.06 of 10
-
-## Job Experience
+## Job experience
 
 #### Lorem ipsum dolor sit amet
 

@@ -37,9 +37,12 @@ Academic experiences:
 
 ## Job experience
 
-### Lorem ipsum dolor sit amet
+### Data scientist - Analytics Town
+`May 2022 - Today`
 
-Lorem ipsum dolor sit amet, con
+Part of the e-commerce team responsible for collecting data, processing it and generating reports/insights for a large retail company in Europe. Working under the Agile methodology and the Google Cloud Platform environment.
+
+Skills: `Google Analytics` - `Python` - `BigQuery` - `Virtual Machines` - `Data Studio` - `Bash Scripting` - `Linux`
 
 ### Lorem ipsum dolor sit amet
 

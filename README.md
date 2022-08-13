@@ -8,34 +8,45 @@ I am currently working as a Data Scientist for [Analytics Town](https://www.anal
 
 ## Education
 
-#### Lorem ipsum dolor sit amet
+### PhD in Science and Technology - National University of Cuyo (Argentina)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+`April 2021 -> December 2024`
 
-#### Lorem ipsum dolor sit amet
+Topic: high performance computational biology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Scientific publications:
+* [Synaptotagmin-1 C2B domains cooperatively stabilize the fusion stalk via a master-servant mechanism](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d1sc06711g). Chemical Science. 2022. Di Bartolo Ary Lautaro and Masone Diego.
+* [Enhanced Expansion and Reduced Kiss-and-Run Events in Fusion Pores Steered by Synaptotagmin-1 C2B Domains](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.2c00424). Journal of Chemical Theory and Computation. Di Bartolo Ary Lautaro, Tomes Claudia, Mayorga Luis and Masone Diego.
+
+In media:
+* [They describe how a key protein for neuronal synapses works.](https://www.uncuyo.edu.ar/prensa/ciencia-argentina-describen-como-funda-una-proteina-key-para-la-sinapsis-neuronal23)
+
+* [Supercomputing and Neural Connections.](https://ccad.unc.edu.ar/2022/03/29/serafin-supercomputacion-y-conexiones-neuronales/)
+
+### Industrial Engineering - National University of Mar del Plata (Argentina)
+
+`March 2015 -> August 2020` 
 
 ## Job Experience
 
-#### Lorem ipsum dolor sit amet
+### Lorem ipsum dolor sit amet
 
 Lorem ipsum dolor sit amet, con
 
-#### Lorem ipsum dolor sit amet
+### Lorem ipsum dolor sit amet
 
 Lorem ipsum dolor sit amet, con
 
-#### Lorem ipsum dolor sit amet
+### Lorem ipsum dolor sit amet
 
 Lorem ipsum dolor sit amet, con
 
 ## Skills
 
-#### Lorem ipsum dolor sit amet
+### Lorem ipsum dolor sit amet
 
 Lorem ipsum dolor sit amet, con
 
-#### Lorem ipsum dolor sit amet
+### Lorem ipsum dolor sit amet
 
 Lorem ipsum dolor sit amet, con

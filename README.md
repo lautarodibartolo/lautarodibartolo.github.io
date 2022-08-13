@@ -11,7 +11,6 @@ I am currently working as **data scientist** for [Analytics Town](https://www.an
 ## Education
 
 ### PhD in science and technology - National University of Cuyo (Argentina)
-
 `April 2021 -> December 2024`
 
 Topic: high performance computational biology.
@@ -26,7 +25,6 @@ In media:
 * [Supercomputing and neural connections.](https://ccad.unc.edu.ar/2022/03/29/serafin-supercomputacion-y-conexiones-neuronales/)
 
 ### Industrial engineering - National University of Mar del Plata (Argentina)
-
 `March 2015 -> August 2020` 
 
 GPA: 8.06 of 10
@@ -44,13 +42,31 @@ Part of the e-commerce team responsible for collecting data, processing it and g
 
 Aptitudes: `Google Analytics`, `Python`, `BigQuery`, `Virtual Machines`, `Data Studio`, `Bash Scripting` and `Linux`
 
-### Lorem ipsum dolor sit amet
+### CRM consultant - Deitres
+`April 2021 - Today`
 
-Lorem ipsum dolor sit amet, con
+Maintenance and improvements of implemented CRM (HubSpot) for the automation of the process of sales, collections and production.
 
-### Lorem ipsum dolor sit amet
+Aptitudes: `HubSpot` and `Automated Marketing`
 
-Lorem ipsum dolor sit amet, con
+### Graduate teaching assistant - National University of Mar del Plata
+`June 2022 - Today`
+
+Applied statistics
+
+### PhD Fellow - CONICET
+`April 2021 - May 2022`
+
+Doctoral scholarship to exclusively investigate the fusion pore in lipid membranes using high-performance computing techniques.
+
+Aptitudes: `C++`, `Python`, `Bash Scripting`, `Linux`, `High Performance Computing` and `Scientific Investigation`
+
+### Pricing Analyst - Accenture
+`November 2020 - April 2021`
+
+Generation of pricings for projects in LATAM, USA, Canada and Europe. Development of an application to standardize the pricing request process using low-code with Power Apps connected to a SharePoint database using Power Automate. A dashboard displayed in Power BI made it possible to track the use of this tool.
+
+Aptitudes: `Microsoft Excel`, `Microsoft Power Apps`, `Microsoft Power Automate`, `Microsoft Power BI` and `Microsoft SharePoint`.
 
 ## Skills
 

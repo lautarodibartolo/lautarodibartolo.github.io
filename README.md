@@ -17,13 +17,13 @@ I am currently working as **data scientist** for [Analytics Town](https://www.an
 Topic: high performance computational biology.
 
 Scientific publications:
-* [Synaptotagmin-1 C2B domains cooperatively stabilize the fusion stalk via a master-servant mechanism](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d1sc06711g). Chemical Science. 2022. Di Bartolo Ary Lautaro and Masone Diego.
-* [Enhanced Expansion and Reduced Kiss-and-Run Events in Fusion Pores Steered by Synaptotagmin-1 C2B Domains](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.2c00424). Journal of Chemical Theory and Computation. Di Bartolo Ary Lautaro, Tomes Claudia, Mayorga Luis and Masone Diego.
+* [Synaptotagmin-1 C2B domains cooperatively stabilize the fusion stalk via a master-servant mechanism](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d1sc06711g). Chemical Science. 2022. **Di Bartolo Ary Lautaro** and Masone Diego.
+* [Enhanced Expansion and Reduced Kiss-and-Run Events in Fusion Pores Steered by Synaptotagmin-1 C2B Domains](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.2c00424). Journal of Chemical Theory and Computation. **Di Bartolo Ary Lautaro**, Tomes Claudia, Mayorga Luis and Masone Diego.
 
 In media:
-* [They describe how a key protein for neuronal synapses works.](https://www.uncuyo.edu.ar/prensa/ciencia-argentina-describen-como-funda-una-proteina-key-para-la-sinapsis-neuronal23)
+* [Describing how a key protein for neuronal synapses works.](https://www.uncuyo.edu.ar/prensa/ciencia-argentina-describen-como-funda-una-proteina-key-para-la-sinapsis-neuronal23)
 
-* [Supercomputing and Neural Connections.](https://ccad.unc.edu.ar/2022/03/29/serafin-supercomputacion-y-conexiones-neuronales/)
+* [Supercomputing and neural connections.](https://ccad.unc.edu.ar/2022/03/29/serafin-supercomputacion-y-conexiones-neuronales/)
 
 ### Industrial engineering - National University of Mar del Plata (Argentina)
 

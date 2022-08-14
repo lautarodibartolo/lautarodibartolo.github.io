@@ -4,9 +4,13 @@
 
 I am an **industrial engineer** graduated from the National University of Mar del Plata, pursuing a **PhD in science and technology** at the National University of Cuyo.
 
-I am currently working as **data scientist** for [Analytics Town](https://www.analyticstown.com/en/home/) working on e-commerce sites of a large retail company in Europe. In addition, I work as a **CRM consultant** (HubSpot) for [Deitres](https://www.deitres.com), an IoT firm, seeking the automation of marketing and collection tools. Finally, I have teaching functions at the National University of Mar del Plata as an **assistant professor** in **applied statistics**.
+I am currently working as **data scientist** for [Analytics Town](https://www.analyticstown.com/en/home/) on e-commerce sites of a large retail company in Europe. In addition, I work as a **CRM consultant** (HubSpot) for [Deitres](https://www.deitres.com), an IoT firm, seeking the automation of marketing and collection tools. Finally, I have teaching functions at the National University of Mar del Plata as an **assistant professor** in **applied statistics**.
 
-**I am interested in carrying out projects that involve the entire data life cycle**. Obtaining the data, programmatic processing, visualization and generation of actionable insights.
+**I am interested in carrying out projects that involve the entire data life cycle**:
+* Data creation, ingestion, or capture.
+* Data processing.
+* Data analysis.
+* Data sharing, publication and visualization.
 
 ## Education
 
@@ -40,7 +44,7 @@ Academic experiences:
 
 Part of the e-commerce team responsible for collecting data, processing it and generating reports/insights for a large retail company in Europe. Working under the Agile methodology and the Google Cloud Platform environment.
 
-Aptitudes: `Google Analytics`, `Python`, `BigQuery`, `Virtual Machines`, `Data Studio`, `Bash Scripting` and `Linux`
+Aptitudes: `Google Analytics`, `Python`, `BigQuery`, `Virtual Machines`, `Data Studio`, `GitHub`, `Bash Scripting` and `Linux`
 
 ### CRM consultant - Deitres
 `April 2021 - Today`
@@ -59,7 +63,7 @@ Applied statistics
 
 Doctoral scholarship to exclusively investigate the fusion pore in lipid membranes using high-performance computing techniques.
 
-Aptitudes: `C++`, `Python`, `Bash Scripting`, `Linux`, `High Performance Computing` and `Scientific Investigation`
+Aptitudes: `C++`, `Python`, `GitHub`, `Bash Scripting`, `Linux`, `High Performance Computing` and `Scientific Investigation`
 
 ### Pricing Analyst - Accenture
 `November 2020 - April 2021`
@@ -68,12 +72,9 @@ Generation of pricings for projects in LATAM, USA, Canada and Europe. Developmen
 
 Aptitudes: `Microsoft Excel`, `Microsoft Power Apps`, `Microsoft Power Automate`, `Microsoft Power BI` and `Microsoft SharePoint`.
 
-## Skills
+### Product Analyst - Deitres
+`February 2020 - November 2020`
 
-### Lorem ipsum dolor sit amet
+Product development, marketing and planning. Management of logistics, suppliers, purchases and contracts. Financial analysis. Implementation of CRM (HubSpot).
 
-Lorem ipsum dolor sit amet, con
-
-### Lorem ipsum dolor sit amet
-
-Lorem ipsum dolor sit amet, con
+Aptitudes: `HubSpot`, `Product Management`, `Marketing` and `Finance`

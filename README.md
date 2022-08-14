@@ -78,3 +78,8 @@ Aptitudes: `Microsoft Excel`, `Microsoft Power Apps`, `Microsoft Power Automate`
 Product development, marketing and planning. Management of logistics, suppliers, purchases and contracts. Financial analysis. Implementation of CRM (HubSpot).
 
 Aptitudes: `HubSpot`, `Product Management`, `Marketing` and `Finance`
+
+## Contact me
+
+Email: lautarodibartolo@gmail.com
+LinkedIn: https://www.linkedin.com/in/lautarodibartolo/

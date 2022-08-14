@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: Lautaro Di Bartolo
 description: Welcome to my website!
+author: Lautaro Di Bartolo
+social-network-links:
+  email: "lautarodibartolo@gmail.com"
+  linkedin: "https://www.linkedin.com/in/lautarodibartolo/"

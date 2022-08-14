@@ -84,3 +84,5 @@ Aptitudes: `HubSpot`, `Product Management`, `Marketing` and `Finance`
 Email: **lautarodibartolo@gmail.com**
 
 LinkedIn: **https://www.linkedin.com/in/lautarodibartolo/**
+
+GitHub: **https://github.com/lautarodibartolo**

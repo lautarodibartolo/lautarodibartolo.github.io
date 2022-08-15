@@ -39,7 +39,7 @@ Academic experiences:
 * Undergraduate research fellow at the Scientific Research Commission of the Province of Buenos Aires, Argentina.
 * Undergraduate teaching assistant at the National University of Mar del Plata.
 
-## Job experience :coffe:
+## Job experience :coffee:
 
 ### Data scientist - Analytics Town
 `May 2022 - Today`

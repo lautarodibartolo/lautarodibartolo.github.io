@@ -1,6 +1,6 @@
 # Lautaro Di Bartolo
 
-## About me
+## About me :+1:
 
 I am an **industrial engineer** graduated from the National University of Mar del Plata, pursuing a **PhD in science and technology** at the National University of Cuyo.
 

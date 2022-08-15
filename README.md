@@ -4,7 +4,7 @@
 
 I am an **industrial engineer** graduated from the National University of Mar del Plata, pursuing a **PhD in science and technology** at the National University of Cuyo.
 
-<img src="picture.png" alt="Just me" width="200"/>
+<img src="picture.png" alt="Just me" width="300"/>
 
 I am currently working as **data scientist** for [Analytics Town](https://www.analyticstown.com/en/home/) on e-commerce sites of a large retail company in Europe. In addition, I work as a **CRM consultant** (HubSpot) for [Deitres](https://www.deitres.com), an IoT firm, seeking the automation of marketing and collection tools. Finally, I have teaching functions at the National University of Mar del Plata as an **assistant professor** in **applied statistics**.
 

@@ -24,7 +24,7 @@ Scientific publications:
 * [Enhanced Expansion and Reduced Kiss-and-Run Events in Fusion Pores Steered by Synaptotagmin-1 C2B Domains](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.2c00424). Journal of Chemical Theory and Computation. **Di Bartolo Ary Lautaro**, Tomes Claudia, Mayorga Luis and Masone Diego.
 
 In media:
-* [Describing how a key protein for neuronal synapses works.](https://www.uncuyo.edu.ar/prensa/ciencia-argentina-describen-como-funda-una-proteina-key-para-la-sinapsis-neuronal23)
+* [Describing how a key protein for neuronal synapses works.](https://www.uncuyo.edu.ar/prensa/ciencia-argentina-describen-como-funciona-una-proteina-clave-para-la-sinapsis-neuronal23)
 
 * [Supercomputing and neural connections.](https://ccad.unc.edu.ar/2022/03/29/serafin-supercomputacion-y-conexiones-neuronales/)
 

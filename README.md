@@ -1,6 +1,6 @@
 # Lautaro Di Bartolo
 
-## About me
+## About me :raising_hand:
 
 I am an **industrial engineer** graduated from the National University of Mar del Plata, pursuing a **PhD in science and technology** at the National University of Cuyo.
 
@@ -12,7 +12,7 @@ I am currently working as **data scientist** for [Analytics Town](https://www.an
 * Data analysis.
 * Data sharing, publication and visualization.
 
-## Education
+## Education :books:
 
 ### PhD in science and technology - National University of Cuyo (Argentina)
 `April 2021 -> December 2024`
@@ -37,7 +37,7 @@ Academic experiences:
 * Undergraduate research fellow at the Scientific Research Commission of the Province of Buenos Aires, Argentina.
 * Undergraduate teaching assistant at the National University of Mar del Plata.
 
-## Job experience
+## Job experience :coffee:
 
 ### Data scientist - Analytics Town
 `May 2022 - Today`
@@ -85,4 +85,4 @@ Aptitudes: `HubSpot`, `Product Management`, `Marketing` and `Finance`
 
 :necktie: LinkedIn: [linkedin.com/in/lautarodibartolo](https://www.linkedin.com/in/lautarodibartolo/)
 
-:cat: GitHub: [github.com/lautarodibartolo](https://github.com/lautarodibartolo)
+:smirk_cat: GitHub: [github.com/lautarodibartolo](https://github.com/lautarodibartolo)

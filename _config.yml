@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Lautaro Di Bartolo
 description: Welcome to my website!
+gems:
+  - jemoji

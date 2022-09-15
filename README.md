@@ -56,7 +56,7 @@ Maintenance and improvements of implemented CRM (HubSpot) for the automation of 
 Aptitudes: `HubSpot` and `Automated Marketing`
 
 ### Graduate teaching assistant - National University of Mar del Plata
-`June 2022 - Today`
+`June 2022 - September 2022`
 
 Applied statistics
 

@@ -6,7 +6,7 @@ I am an **industrial engineer** graduated from the National University of Mar de
 
 <img src="picture.png" alt="Just me" width="300"/>
 
-I am currently working as **data scientist** for [Analytics Town](https://www.analyticstown.com/en/home/) on e-commerce sites of a large retail company in Europe. In addition, I work as a **CRM consultant** (HubSpot) for [Deitres](https://www.deitres.com), an IoT firm, seeking the automation of marketing and collection tools. Finally, I have teaching functions at the National University of Mar del Plata as an **assistant professor** in **applied statistics**.
+I am currently working as **Data Scientist Sr.** for [Analytics Town](https://www.analyticstown.com/en/home/) on e-commerce sites of a large retail company in Europe. In addition, I work as a **consultant** for [Deitres](https://www.deitres.com), an IoT firm, seeking the automation of marketing and collection tools.
 
 **I am interested in carrying out projects that involve the entire data life cycle**:
 * Data creation, ingestion, or capture.
@@ -41,14 +41,14 @@ Academic experiences:
 
 ## Job experience :coffee:
 
-### Data scientist - Analytics Town
+### Data scientist Sr. - Analytics Town
 `May 2022 - Today`
 
 Part of the e-commerce team responsible for collecting data, processing it and generating reports/insights for a large retail company in Europe. Working under the Agile methodology and the Google Cloud Platform environment.
 
 Aptitudes: `Google Analytics`, `Python`, `BigQuery`, `Virtual Machines`, `Data Studio`, `GitHub`, `Bash Scripting` and `Linux`
 
-### CRM consultant - Deitres
+### Consultant - Deitres
 `April 2021 - Today`
 
 Maintenance and improvements of implemented CRM (HubSpot) for the automation of the process of sales, collections and production.

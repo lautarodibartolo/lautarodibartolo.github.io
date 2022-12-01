@@ -24,7 +24,7 @@ Topic: high performance computational biology.
 Scientific publications:
 * [Synaptotagmin-1 C2B domains cooperatively stabilize the fusion stalk via a master-servant mechanism](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d1sc06711g). Chemical Science. 2022. **Di Bartolo Ary Lautaro** and Masone Diego.
 * [Enhanced Expansion and Reduced Kiss-and-Run Events in Fusion Pores Steered by Synaptotagmin-1 C2B Domains](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.2c00424). Journal of Chemical Theory and Computation. **Di Bartolo Ary Lautaro**, Tomes Claudia, Mayorga Luis and Masone Diego.
-* [How binding to surfaces affects disorder?](https://www.sciencedirect.com/science/article/pii/B9780323995337000170). Foundations and Frontiers in Enzymology. 2022. **Di Bartolo Ary Lautaro** and Masone Diego.
+* [How binding to surfaces affects disorder?](https://www.sciencedirect.com/science/article/pii/B9780323995337000170) Foundations and Frontiers in Enzymology. 2022. **Di Bartolo Ary Lautaro** and Masone Diego.
 
 In media:
 * [Describing how a key protein for neuronal synapses works.](https://www.uncuyo.edu.ar/prensa/ciencia-argentina-describen-como-funciona-una-proteina-clave-para-la-sinapsis-neuronal23)
